@@ -2,6 +2,8 @@
 
 ### This project is a simple calculator that was created using HTML, CSS, and JavaScript. It allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
 
+View project at https://vasylyna-p.github.io/Calculator/
+
 ## Features
 * Addition, subtraction, multiplication, and division operations
 * Clear button to reset the calculator
